@@ -31,3 +31,7 @@
 .dark-showing {
   display: none;
 }
+
+.dynamicborder {
+  border: 3px solid lightgrey;
+}

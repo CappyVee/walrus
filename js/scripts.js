@@ -23,4 +23,8 @@ $(document).ready(function() {
     $(".dark-hidden").toggle();
     $(".dark-showing").toggle();
   });
+  $(".jsborder").click(function() {
+    $(".jsborder").toggleClass("dynamicborder");
+
+  });
 });
