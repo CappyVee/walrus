@@ -25,6 +25,5 @@ $(document).ready(function() {
   });
   $(".jsborder").click(function() {
     $(".jsborder").toggleClass("dynamicborder");
-
   });
 });
