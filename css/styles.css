@@ -18,3 +18,16 @@
 .clickable:hover {
   text-decoration: underline;
 }
+
+.dark-background {
+  background-color: black;
+  color: white;
+}
+
+.white-background {
+  background-color: white;
+}
+
+.dark-showing {
+  display: none;
+}
